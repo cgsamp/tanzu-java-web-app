@@ -5,6 +5,8 @@ metadata:
   labels:
     apps.tanzu.vmware.com/workload-type: web
     app.kubernetes.io/part-of: tanzu-java-web-app
+  annotations:
+    autscaling.knative.dev/minScale: "1"
 spec:
   source:
     git:
