@@ -4,7 +4,7 @@
 ```json
 {
   "projectName" : "tanzu-java-web-app",
-  "repositoryPrefix" : "csamp.azurecr.io/my-project/supply-chain"
+  "repositoryPrefix" : "csamp.azurecr.io/azure-dev"
 }
 ```
 ## Log
