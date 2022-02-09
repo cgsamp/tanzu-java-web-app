@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: csamp-tanzu-java-web-app
-  description: Tanzu Java Web App
+  description: Csamp's Tanzu Java Web App
   tags:
     - app-accelerator
     - java
@@ -15,4 +15,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: default-team
-  system: tanzu-java-web-app
+  system: csamp-tanzu-java-web-app
