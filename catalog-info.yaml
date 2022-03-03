@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: csamp-tanzu-java-web-app
   description: Csamp's Tanzu Java Web App
+  links:
+    - url: https://tanzu.vmware.com/
+      title: Tanzu!
+      icon: dashboard  
   tags:
     - app-accelerator
     - java
