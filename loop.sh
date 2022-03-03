@@ -1,7 +1,8 @@
 #!/bin/zsh
 while true
 do
-    curl http://tanzu-java-web-app.default.apps.tap.sampsoftware.io/
+    echo $(date)
+    curl http://csamp-tanzu-java-web-app.default.apps.tap.sampsoftware.io/
     echo
     sleep 15
 done
