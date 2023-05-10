@@ -1,11 +1,17 @@
 # Compiled class file
 *.class
 
-# Log file
-*.log
+# maven-wrapper.jar
+**/maven-wrapper.jar
 
-# BlueJ files
-*.ctxt
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/

@@ -1,6 +1,6 @@
 spring:
   application:
-    name: csamp-tanzu-java-web-app
+    name: tanzu-java-web-app
 management:
   endpoints:
     web:
