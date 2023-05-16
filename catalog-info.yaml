@@ -19,4 +19,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: default-team
-  system: csamp-tanzu-java-web-app
+  system: tanzu-java-web-app
